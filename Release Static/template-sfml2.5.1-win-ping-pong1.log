@@ -1,0 +1,44 @@
+﻿  Скопировано файлов:         1.
+  Подпапка или файл D:\game\x64\Release Static\resources уже существует.
+  D:\game\resources\bg.jpg
+  D:\game\resources\char.png
+  D:\game\resources\cloud.png
+  D:\game\resources\dima.png
+  D:\game\resources\map.png
+  D:\game\resources\mountain2.png
+  D:\game\resources\ped.png
+  D:\game\resources\pine1.png
+  D:\game\resources\pine2.png
+  D:\game\resources\sky.png
+  D:\game\resources\sky_cloud.png
+  D:\game\resources\Ubuntu.ttf
+  D:\game\resources\woodcutter.png
+  Скопировано файлов:        13.
+  main.cpp
+d:\game\main.cpp(39): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+d:\game\main.cpp(97): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+d:\game\main.cpp(106): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\game\main.cpp(110): warning C4305: =: усечение из "double" в "float"
+d:\game\main.cpp(113): warning C4305: =: усечение из "double" в "float"
+d:\game\main.cpp(116): warning C4305: =: усечение из "double" в "float"
+d:\game\main.cpp(133): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\game\main.cpp(134): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+d:\game\main.cpp(143): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\game\main.cpp(149): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+d:\game\main.cpp(162): warning C4244: аргумент: преобразование "unsigned int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+d:\game\main.cpp(206): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+d:\game\main.cpp(237): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  1 of 228 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  template-sfml2.5.1-win-ping-pong1.vcxproj -> D:\game\x64\Release Static\deerGame.exe
